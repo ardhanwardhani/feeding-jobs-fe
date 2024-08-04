@@ -1,8 +1,12 @@
-# React + Vite
+# Feeding Data from JobStreet
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is an application for jobs data manager where you can create, update, delete and delete. The main feauture in this app is generate jobs from JobStreet. You can get many jobs data with any category from JobStreet in one click. And then you can export the data to excel format.
 
-Currently, two official plugins are available:
+This app is created using:
+- ReactJS
+- Material UI
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features:
+- CRUD Jobs
+- Generate Jobs
+- Export Jobs to Excel
